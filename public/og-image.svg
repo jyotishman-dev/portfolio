@@ -1,0 +1,33 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark Background -->
+  <rect width="1200" height="630" fill="#020617"/>
+  
+  <!-- Subtle Glowing Orbs for Tech Vibe -->
+  <circle cx="1000" cy="150" r="250" fill="#3b82f6" opacity="0.15"/>
+  <circle cx="150" cy="500" r="200" fill="#10b981" opacity="0.1"/>
+  
+  <!-- Main Name -->
+  <text x="80" y="240" font-family="system-ui, -apple-system, sans-serif" font-size="68" font-weight="800" fill="#f8fafc" letter-spacing="-1">Jyotishman Pathak</text>
+  
+  <!-- Role -->
+  <text x="80" y="310" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="500" fill="#94a3b8">Full Stack &amp; AI Engineer</text>
+  
+  <!-- Tech Stack Pills -->
+  <rect x="80" y="370" width="140" height="44" rx="22" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="150" y="398" font-family="system-ui, sans-serif" font-size="20" font-weight="600" fill="#38bdf8" text-anchor="middle">Next.js</text>
+  
+  <rect x="240" y="370" width="170" height="44" rx="22" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="325" y="398" font-family="system-ui, sans-serif" font-size="20" font-weight="600" fill="#38bdf8" text-anchor="middle">TypeScript</text>
+
+  <rect x="430" y="370" width="170" height="44" rx="22" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="515" y="398" font-family="system-ui, sans-serif" font-size="20" font-weight="600" fill="#38bdf8" text-anchor="middle">AI Agents</text>
+
+  <rect x="620" y="370" width="210" height="44" rx="22" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="725" y="398" font-family="system-ui, sans-serif" font-size="20" font-weight="600" fill="#38bdf8" text-anchor="middle">Real-time Systems</text>
+
+  <!-- Bottom Tagline -->
+  <text x="80" y="540" font-family="system-ui, sans-serif" font-size="24" font-weight="400" fill="#64748b">Building autonomous agents &amp; shipping end-to-end products.</text>
+  
+  <!-- Website URL -->
+  <text x="1120" y="540" font-family="system-ui, sans-serif" font-size="24" font-weight="600" fill="#f8fafc" text-anchor="end">jyotishman.dev</text> <!-- Apna domain yahan change kar lena -->
+</svg>
