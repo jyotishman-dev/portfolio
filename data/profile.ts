@@ -8,12 +8,13 @@ export const profile = {
   status: "Exploring AI agents · Building in public",
   openToWork: true,
   headline: "I'm a backend engineer who ships real-time systems end-to-end, now building autonomous AI agents from first principles.",
-  about: [
-    "Final-year Electronics and Instrumentation Engineering student (graduating in 2027), focused on web development, backend real-time systems, and AI agents.",
-    "Currently interning at NIELIT, building a comparative analysis system for breast cancer prediction with a focus on explainability using XAI and Grad-CAM.",
-    "Previously served as the Web Lead at JIST Coding Club, driving technical initiatives and peer learning.",
-    "Passionate about founding engineering, contract builds, and shipping products that solve real-world problems.",
-  ],
+ about: [
+  "Final-year Electronics and Instrumentation Engineering student (graduating in 2027), focused on web development, backend real-time systems, and AI agents.",
+  "Currently interning at NIELIT, building an interactive ATMP (Assembly, Testing, Marking, Packaging) simulation with modern semiconductor machines and a clean room, in Unity and Blender, with AR/VR training modules for workers.",
+  "My college major project was a comparative machine learning system for breast cancer prediction, focused on explainability using XAI and Grad-CAM.",
+  "Previously served as the Web Lead at JIST Coding Club, driving technical initiatives and peer learning.",
+  "Passionate about founding engineering, contract builds, and shipping products that solve real-world problems.",
+],
   github: { 
     label: "This is my GitHub", 
     sub: "@jyotishman-dev", 
@@ -27,12 +28,12 @@ export const profile = {
     href: "/jyotishman-resume.pdf" 
   },
   work: [
-    {
-      company: "NIELIT",
-      title: "Machine Learning Intern",
-      period: "Aug 2026 – Present",
-      blurb: "Developing a comparative machine learning system for breast cancer prediction, with a focus on explainability using XAI and Grad-CAM."
-    },
+   {
+  company: "NIELIT",
+  title: "XR & Simulation Developer Intern",
+  period: "Aug 2026 – Present",
+  blurb: "Building an ATMP semiconductor plant simulation in Unity and Blender: modern machines, a clean room, and AR/VR training so workers can learn clean room protocols in an immersive environment."
+},
     {
       company: "BlueStock Fintech",
       title: "Backend Engineering Intern",
